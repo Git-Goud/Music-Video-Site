@@ -1,4 +1,4 @@
-# Music-Video-Site
+# Music-Video-Site - Practice Porject
 
 A Freemote.com Project that teaches you how to create a site that displays a musci video and the lyrics using HTML and CSS with embed code from Youtub.com
 ## Built With
